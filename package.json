@@ -28,7 +28,7 @@
     "express": "^4.16.2",
     "formidable": "^1.2.1",
     "mysql": "^2.18.1",
-    "socket.io": "^2.0.3",
+    "socket.io": "^2.5.0",
     "vash": "^0.12.3"
   }
 }
